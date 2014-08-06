@@ -1,0 +1,14 @@
+extreme spring:
+OD: 18.98mm
+ID: 15.79mm
+
+medium spring:
+OD: 19.09mm
+ID: 16.59mm
+
+old spring:
+OD: 20.54mm
+ID: 18.10mm
+
+fork 2 (the next forkening):
+OD: 33.99mm
