@@ -11,7 +11,7 @@ While the rocket is on the rail waiting to be launched it will need to be connec
 # Design ideas:
 
 Below is an initial design drawing for the umbilical disconnect.
-![alt text](https://github.com/psas/sw-cad-airframe-umbilical-disconnect/blob/master/LV3%20Umbilical%20Disconnect/Connector.PNG "Initial design drawing")
+![alt text](https://github.com/psas/sw-cad-airframe-umbilical-disconnect/blob/master/LV3%20Umbilical%20Disconnect/Design/Connector.PNG "Initial design drawing")
 	
 # Bonus points:
 
