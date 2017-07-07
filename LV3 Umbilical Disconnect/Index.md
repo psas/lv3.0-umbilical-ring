@@ -11,7 +11,7 @@
 # Design ideas:
 
 	Below is an initial design drawing for the umbilical disconnect.
-![alt text](## "Logo Title Text 1")
+![alt text](https://github.com/psas/sw-cad-airframe-umbilical-disconnect/blob/master/LV3%20Umbilical%20Disconnect/Connector.PNG "Initial design drawing")
 	
 # Bonus points:
 
