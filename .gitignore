@@ -1,2 +1,5 @@
 # SW backup files
 ~$*
+
+# STL files (3D printing)
+*.STL
